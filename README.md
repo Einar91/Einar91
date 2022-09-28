@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently a student at University of Oslo 🎓
+- I'm currently a student at the University of Oslo 🎓
 - Many random repo's related to course work.
 
 <!--
