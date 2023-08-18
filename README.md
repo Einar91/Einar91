@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- I'm currently a student at the University of Oslo 🎓
-
 <!--
 **Einar91/Einar91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
